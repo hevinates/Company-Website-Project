@@ -2,7 +2,7 @@
 
 This is a **company website** designed using **HTML** and **CSS**. The website consists of **five pages**:
 
-1. **Home Page**  
+1. **Home**  
 2. **Our Team**  
 3. **Products**  
 4. **Partnerships**  
