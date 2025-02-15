@@ -4,17 +4,16 @@ This is a **company website** designed using **HTML** and **CSS**. The website c
 
 1. **Home Page**  
 2. **Our Team**  
-3. **Our Products**  
-4. **Our Partnerships**  
+3. **Products**  
+4. **Partnerships**  
 5. **Contact Us**  
 
 
 ## 📌 Features  
 - Users can click on the **Our Team** page to view detailed information about each employee.  
 - Product categories are displayed in a **slideshow format** for better user experience.  
-- The **Our Partnerships** page includes a list of countries where we have business collaborations.  
+- The **Partnerships** page includes a list of countries where we have business collaborations.  
 - The **Contact Us** page provides essential **contact information** and includes a **contact form** for users to reach the company easily.
-- A **contact form** is available on the **Contact Us** page, allowing users to send messages directly to the company.
 
 
 ## 🌍 Multi-Language Support  
